@@ -95,7 +95,7 @@ export default function Home() {
             drawChart
           );
         }}
-        // Get your own license key for testing by contacting Flexmonster team: https://www.flexmonster.com/contact-our-team/
+        // Get your own license key for testing by contacting the Flexmonster team: https://www.flexmonster.com/contact-our-team/
         // licenseKey="XXXX-XXXX-XXXX-XXXX-XXXX"
         licenseFilePath="https://cdn.flexmonster.com/jsfiddle.charts.key"
       />
