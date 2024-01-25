@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project that demonstrates how to visual
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/MrWald/next-sql.git
+git clone https://github.com/vo-fomin/next-sql.git
 ```
 
 2. Start the project:
