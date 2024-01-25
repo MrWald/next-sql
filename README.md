@@ -7,8 +7,13 @@ This is a [Next.js](https://nextjs.org/) project that demonstrates how to visual
 ```bash
 git clone https://github.com/vo-fomin/next-sql.git && cd next-sql
 ```
+2. Install dependencies:
 
+```bash
+npm install
+```
 2. Start the project:
+
 ```bash
 npm run build && npm start
 ```
